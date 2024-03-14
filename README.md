@@ -6,4 +6,4 @@ A Web API can extend the functionality of the browser,
 it can greatly simplify complex functions,
 It can provide easy syntax to complex code.
 
-In this repository Contains almost 20 web Api's of JavaScript which is used for Various purposes across different platforms of different applications.
+This repository Contains almost 20 web Api's of JavaScript which is used for Various purposes across different platforms of different applications.
